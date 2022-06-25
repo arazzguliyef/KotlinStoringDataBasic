@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KotlinStoringDataBasic</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="kabul_edilenler">Kabul Edilenler</string>
+    <string name="todo">TODO</string>
+    <string name="age">Age</string>
+    <string name="button">Kayıt OL</string>
+    <string name="delete">Delete</string>
+    <string name="age2">Age:</string>
+    <string name="save">Save</string>
+    <string name="name_1">Name 1</string>
+    <string name="name_2">Name 2</string>
+    <string name="name_3">Name 3</string>
+    <string name="name_4">Name 4</string>
+    <string name="txt_title">Kayıt İçin İsim Giriniz</string>
+</resources>
